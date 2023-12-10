@@ -1,0 +1,89 @@
+glebbus@glebbus-osx hw_1 % python3 task_1_2.py artifacts/input_1.txt
+
+dfglkjfsd sgdflkg sdf
+sdfj ad
+f'dgfhj
+ asknal sdf
+
+
+
+  fdgk
+
+glebbus@glebbus-osx hw_1 % python3 task_1_2.py artifacts/input_2.txt
+
+
+cillum dolore eu fugiat nulla pariatur. Excepteur
+
+ sint occaecat cupidatat non proident, sunt in culpa qui
+ officia deserunt mollit anim id
+ est
+ laborum
+
+ end
+glebbus@glebbus-osx hw_1 % python3 task_1_2.py artifacts/input_2.txt artifacts/input_1.txt
+=> artifacts/input_2.txt <=
+
+
+cillum dolore eu fugiat nulla pariatur. Excepteur
+
+ sint occaecat cupidatat non proident, sunt in culpa qui
+ officia deserunt mollit anim id
+ est
+ laborum
+
+ end
+
+=> artifacts/input_1.txt <=
+
+dfglkjfsd sgdflkg sdf
+sdfj ad
+f'dgfhj
+ asknal sdf
+
+
+
+  fdgk
+
+glebbus@glebbus-osx hw_1 % python3 task_1_2.py
+
+q
+w
+e
+r
+r
+t
+y
+u
+i
+o
+o
+p
+[
+a
+s
+d
+f
+g
+h
+j
+k
+l
+;
+yD
+u
+i
+o
+o
+p
+[
+a
+s
+d
+f
+g
+h
+j
+k
+l
+;
+glebbus@glebbus-osx hw_1 %

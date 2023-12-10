@@ -1,0 +1,42 @@
+glebbus@glebbus-osx hw_1 % python3 task_1_1.py artifacts/input_1.txt
+1
+2       sfkgm
+3       fsfg
+4
+5       sdfs
+6       asd
+7
+8
+9       dfglkjfsd sgdflkg sdf
+10      sdfj ad
+11      f'dgfhj
+12       asknal sdf
+13
+14
+15
+16        fdgk
+17
+glebbus@glebbus-osx hw_1 % python3 task_1_1.py
+
+sfdglkjdflkgj
+sf
+sfg
+
+dfglkjldfg
+
+dflkgjlkdfg
+
+dfgklj
+
+1D
+2       sfdglkjdflkgj
+3       sf
+4       sfg
+5
+6       dfglkjldfg
+7
+8       dflkgjlkdfg
+9
+10      dfgklj
+11
+glebbus@glebbus-osx hw_1 %

@@ -1,0 +1,21 @@
+glebbus@glebbus-osx hw_1 % python3 task_1_3.py artifacts/input_2.txt artifacts/input_1.txt
+20 70 460 artifacts/input_2.txt
+17 13 85 artifacts/input_1.txt
+37 83 545 total
+glebbus@glebbus-osx hw_1 % python3 task_1_3.py artifacts/input_2.txt
+20 70 460 artifacts/input_2.txt
+glebbus@glebbus-osx hw_1 % python3 task_1_3.py
+sflgkd;flgk
+dflgkd;
+
+
+fdglk
+fdkgm;
+
+dd
+d
+d
+fgk'dlkfg;l
+ sgd;lfkg  sf;glkd d  df;lg
+12 12 84
+glebbus@glebbus-osx hw_1 %
